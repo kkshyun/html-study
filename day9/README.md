@@ -1,4 +1,4 @@
-# React + Vite + TAILWIND
+# React + Vite + TAILWIND + recoil
 
 - src/atom —> 가장 작은 단위를 만들 것(button)
 - src/components —> components
